@@ -1,0 +1,13 @@
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/obj/Debug/netcoreapp3.1/Built-in_Types.csprojAssemblyReference.cache
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/obj/Debug/netcoreapp3.1/Built-in_Types.AssemblyInfoInputs.cache
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/obj/Debug/netcoreapp3.1/Built-in_Types.AssemblyInfo.cs
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/obj/Debug/netcoreapp3.1/Built-in_Types.csproj.CoreCompileInputs.cache
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/bin/Debug/netcoreapp3.1/Built-in_Types
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/bin/Debug/netcoreapp3.1/Built-in_Types.deps.json
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/bin/Debug/netcoreapp3.1/Built-in_Types.runtimeconfig.json
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/bin/Debug/netcoreapp3.1/Built-in_Types.runtimeconfig.dev.json
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/bin/Debug/netcoreapp3.1/Built-in_Types.dll
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/bin/Debug/netcoreapp3.1/Built-in_Types.pdb
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/obj/Debug/netcoreapp3.1/Built-in_Types.dll
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/obj/Debug/netcoreapp3.1/Built-in_Types.pdb
+/home/fellyka/Desktop/IntroductionToC#/3-CShType/Built-in_Types/obj/Debug/netcoreapp3.1/Built-in_Types.genruntimeconfig.cache
