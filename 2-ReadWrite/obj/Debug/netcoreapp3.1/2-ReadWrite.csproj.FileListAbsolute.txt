@@ -1,0 +1,13 @@
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/obj/Debug/netcoreapp3.1/2-ReadWrite.csprojAssemblyReference.cache
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/obj/Debug/netcoreapp3.1/2-ReadWrite.AssemblyInfoInputs.cache
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/obj/Debug/netcoreapp3.1/2-ReadWrite.AssemblyInfo.cs
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/obj/Debug/netcoreapp3.1/2-ReadWrite.csproj.CoreCompileInputs.cache
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/bin/Debug/netcoreapp3.1/2-ReadWrite
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/bin/Debug/netcoreapp3.1/2-ReadWrite.deps.json
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/bin/Debug/netcoreapp3.1/2-ReadWrite.runtimeconfig.json
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/bin/Debug/netcoreapp3.1/2-ReadWrite.runtimeconfig.dev.json
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/bin/Debug/netcoreapp3.1/2-ReadWrite.dll
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/bin/Debug/netcoreapp3.1/2-ReadWrite.pdb
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/obj/Debug/netcoreapp3.1/2-ReadWrite.dll
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/obj/Debug/netcoreapp3.1/2-ReadWrite.pdb
+/home/fellyka/Desktop/IntroductionToC#/2-ReadWrite/obj/Debug/netcoreapp3.1/2-ReadWrite.genruntimeconfig.cache
