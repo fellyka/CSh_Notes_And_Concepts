@@ -1,0 +1,13 @@
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/bin/Debug/netcoreapp3.1/4-CommonOperators
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/bin/Debug/netcoreapp3.1/4-CommonOperators.deps.json
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/bin/Debug/netcoreapp3.1/4-CommonOperators.runtimeconfig.json
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/bin/Debug/netcoreapp3.1/4-CommonOperators.runtimeconfig.dev.json
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/bin/Debug/netcoreapp3.1/4-CommonOperators.dll
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/bin/Debug/netcoreapp3.1/4-CommonOperators.pdb
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/obj/Debug/netcoreapp3.1/4-CommonOperators.csprojAssemblyReference.cache
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/obj/Debug/netcoreapp3.1/4-CommonOperators.AssemblyInfoInputs.cache
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/obj/Debug/netcoreapp3.1/4-CommonOperators.AssemblyInfo.cs
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/obj/Debug/netcoreapp3.1/4-CommonOperators.csproj.CoreCompileInputs.cache
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/obj/Debug/netcoreapp3.1/4-CommonOperators.dll
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/obj/Debug/netcoreapp3.1/4-CommonOperators.pdb
+/home/fellyka/Desktop/IntroductionToC#/4-CommonOperators/obj/Debug/netcoreapp3.1/4-CommonOperators.genruntimeconfig.cache
