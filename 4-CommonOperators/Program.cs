@@ -48,6 +48,26 @@ namespace _4_CommonOperators
 
             Console.WriteLine($"Value is {yValue}");
 
+            //Datatypes conversion
+            int i = 100;
+            float f = i;
+            float ff = 123.75f;
+            int ii = (int)ff; // Explicit conversion
+
+            Console.WriteLine(f); // Implicit conversion
+            Console.WriteLine(ii);
+
+            string strNumber = "110";
+            int iii = int.Parse(strNumber);
+            Console.WriteLine(iii);
+
+            string yetAnotherNumber = "125ZXP";
+            int rezult = 0;
+            bool isConversionSuccessful = int.TryParse(yetAnotherNumber, out rezult);
+
+             Console.WriteLine(isConversionSuccessful ? $"Yes, and the value is {rezult}" : "No coversion is not successful");
+
+
         }
     }
 }
