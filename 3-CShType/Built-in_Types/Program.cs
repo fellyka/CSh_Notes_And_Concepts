@@ -22,6 +22,16 @@ namespace Built_in_Types
 
             double doubleValue = 15.695;
             Console.WriteLine($"Float value {doubleValue}"); //double provides more precision than float
+
+            //string
+            string name = "Sollers";
+            Console.WriteLine(name);
+
+            string withoutVerbatimLiteral = "D:\\Sollers\\CShTraining\\Exercises";
+            Console.WriteLine(withoutVerbatimLiteral);
+
+            string verbatimLiteral = @"C:\Sollers\CShTraining";
+            Console.WriteLine(verbatimLiteral);
         }
     }
 }
